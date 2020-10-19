@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE personne SYSTEM "pix-L-palace.dtd">
+<?xml-stylesheet type="text/xsl" href="liste.xsl"?>
+<personne>
+<identitee>wims jimmy</identitee>
+	<information>
+		<adressemail>wims@hotmail.fr</adressemail>
+		<date> date de naissance:1998-12-08</date>
+		<mana> mana :64</mana>
+		<vie> vie :72</vie>
+		<xp> XP :34</xp>
+		<niveau> niveau :1</niveau>
+		<posts>
+			<post type="public">le 2018-03-21 19:11:54 à publié : cool</post>
+			<post type="public">le 2018-03-21 19:11:54 à publié : he salut! tanguy!</post>
+			<post type="public">le 2018-03-29 15:45:46 à publié :  j'en ai marre de commenter tout seul
+</post>
+			<post type="public">le 2018-03-29 18:19:49 à publié :  trop fort ! on peut aimer ses propres post mais on pert 1 mana mais ça nous rajoute 1 de vie! par contre si on aime pas un post d'un autre ça nous coute 1 de vie mais ça enlève aussi un de vie à l'autre mais on pert aussi 1 mana ! et enfin si on aime pas son propre post ça nous coute 1 de vie 1 de mana et on pert 1 de vie en plus</post>
+			<post type="public">le 2018-04-20 08:27:38 à publié : </post>
+			<post type="public">le 2018-05-02 14:44:41 à publié : </post>
+			<post type="public">le 2018-05-04 11:32:21 à publié : je teste les fonction</post>
+			<post type="public">le 2018-05-04 13:49:18 à publié : </post>
+			<post type="public">le 2018-05-06 10:24:52 à publié : j'ai changé les dossier ^^</post>
+			<post type="public">le 2018-05-06 12:43:54 à publié : </post>
+			<post type="public">le 2018-05-07 16:10:58 à publié : oui c'est genial</post>
+			<post type="amis" >le 2018-03-21 19:11:54 à publié : comment va tu</post>
+			<post type="prive" >le 2018-03-21 19:11:54 à publié : memo 2 � moi meme</post>
+		</posts>
+	</information>
+</personne>

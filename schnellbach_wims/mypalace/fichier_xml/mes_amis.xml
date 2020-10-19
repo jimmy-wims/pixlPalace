@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE personne SYSTEM "pix-L-palace.dtd">
+<?xml-stylesheet type="text/xsl" href="table.xsl"?>
+<personne>
+<identitee>jimmy wims</identitee>
+	<information>
+		<nom>tanguy</nom>
+		<prenom>schnellbach</prenom>
+		<adressemail>psy@hotmail.fr</adressemail>
+		<date> vous êtes amis depuis le :2018-05-04 20:00:00</date>
+		<posts>
+			<post type="public">le 2018-03-21 19:11:54 à publié : salut jim</post>
+			<post type="public">le 2018-03-21 21:13:25 à publié :  je repond à jimmy</post>
+			<post type="public">le 2018-03-23 10:50:14 à publié :  bonjour</post>
+			<post type="public">le 2018-03-24 10:46:21 à publié :  je repond à salut les amis</post>
+			<post type="public">le 2018-03-24 10:46:43 à publié :  salut jimmy!</post>
+			<post type="public">le 2018-03-24 10:47:34 à publié :  comme tout seul</post>
+			<post type="public">le 2018-03-29 15:09:16 à publié :  mon premier pouce actif! (pensez à dimentionner width et height ) max</post>
+			<post type="public">le 2018-03-29 15:45:22 à publié :  je ne peut pas laisser ma photo de profil comme ça!</post>
+			<post type="amis" >le 2018-03-21 19:11:54 à publié : salut les amis!!</post>
+		</posts>
+	</information>
+</personne>

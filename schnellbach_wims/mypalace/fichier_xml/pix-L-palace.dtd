@@ -1,0 +1,13 @@
+<!ELEMENT personne(identitee*,information*)>
+<!ELEMENT identitee (#PCDATA)>
+<!ELEMENT information (nom*,prenom*,adressemail,date,post,mana*,vie*,xp*,niveau*)>
+<!ELEMENT posts (posts*)>
+<!ELEMENT post (#PCDATA)>
+<!ATTLIST post type (public*|amis*|privee*) #REQUIRED >
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT adressemail (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT listedespost (postpublic*,postamis*)>
+<!ELEMENT postpublic (#PCDATA)>
+<!ELEMENT postamis (#PCDATA)>
